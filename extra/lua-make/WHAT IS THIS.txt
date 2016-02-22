@@ -1,0 +1,6 @@
+HOW TO APPLY ?
+
+1. Download full source code from LUA official.
+2. Extract LUA 5.3.2 source code to somewhere.
+3. copy Makefile and src/Makefile to extracted path. It will overwritten.
+4. Just make with this: make mingwstatic

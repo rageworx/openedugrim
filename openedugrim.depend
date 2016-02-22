@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1456117377 source:d:\githubprojects\openedugrim\src\main.cpp
+	"main.h"
+
+1456117439 d:\githubprojects\openedugrim\src\main.h
+	"lua.hpp"
+
+1103763184 d:\githubprojects\openedugrim\inc\lua.hpp
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1447435122 d:\githubprojects\openedugrim\inc\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1445451460 d:\githubprojects\openedugrim\inc\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+
+1391707953 d:\githubprojects\openedugrim\inc\lualib.h
+	"lua.h"
+
+1448278183 d:\githubprojects\openedugrim\inc\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
