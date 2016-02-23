@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1456117377 source:d:\githubprojects\openedugrim\src\main.cpp
+1456200117 source:d:\githubprojects\openedugrim\src\main.cpp
 	"main.h"
+	"mainWindow.h"
 
 1456117439 d:\githubprojects\openedugrim\src\main.h
 	"lua.hpp"
@@ -28,4 +29,215 @@
 	<stddef.h>
 	<stdio.h>
 	"lua.h"
+
+1456124515 source:d:\githubprojects\openedugrim\src\luaproc.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"lua.hpp"
+	"luaproc.h"
+
+1456123120 d:\githubprojects\openedugrim\src\luaproc.h
+
+1456124604 source:d:\githubprojects\openedugrim\src\fl_highlight_editor.cxx
+	<time.h>
+	<unistd.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	<limits.h>
+	<FL/Fl_Highlight_Editor.H>
+	<FL/Fl.H>
+	"ts/scheme.h"
+	"ts/scheme-private.h"
+	<assert.h>
+	<sys/types.h>
+	<regex.h>
+	"bundled_scripts.cxx"
+
+1456128964 d:\githubprojects\openedugrim\inc\fl\fl_highlight_editor.h
+	<FL/Fl_Text_Editor.H>
+
+1311050970 d:\projects\fltk-1.3.3\fl\fl_text_editor.h
+	"Fl_Text_Display.H"
+
+1400655419 d:\projects\fltk-1.3.3\fl\fl_text_display.h
+	"fl_draw.H"
+	"Fl_Group.H"
+	"Fl_Widget.H"
+	"Fl_Scrollbar.H"
+	"Fl_Text_Buffer.H"
+	<FL/FL_Text_Display.H>
+
+1411053955 d:\projects\fltk-1.3.3\fl\fl_draw.h
+	<FL/x.H>
+	<FL/Enumerations.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Device.H>
+
+1414614346 d:\projects\fltk-1.3.3\fl\x.h
+	"Enumerations.H"
+	"win32.H"
+	"mac.H"
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xatom.h>
+	"Fl_Window.H"
+
+1413406820 d:\projects\fltk-1.3.3\fl\enumerations.h
+	"Fl_Export.H"
+	"fl_types.h"
+
+1408624188 d:\projects\fltk-1.3.3\fl\fl_export.h
+
+1311050970 d:\projects\fltk-1.3.3\fl\fl_types.h
+
+1410773705 d:\projects\fltk-1.3.3\fl\win32.h
+	<windows.h>
+	<FL/Fl_Window.H>
+
+1414592468 d:\projects\fltk-1.3.3\fl\fl_window.h
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+
+1409314211 d:\projects\fltk-1.3.3\fl\fl_group.h
+	"Fl_Widget.H"
+
+1410166549 d:\projects\fltk-1.3.3\fl\fl_widget.h
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+
+1393080710 d:\projects\fltk-1.3.3\fl\fl_bitmap.h
+	"Fl_Image.H"
+
+1413293579 d:\projects\fltk-1.3.3\fl\fl_image.h
+	"Enumerations.H"
+	<stdlib.h>
+
+1410618593 d:\projects\fltk-1.3.3\fl\mac.h
+	<FL/Fl_Widget.H>
+	<ApplicationServices/ApplicationServices.h>
+	"Fl_Window.H"
+	"../src/Fl_Font.H"
+
+1408783318 d:\projects\fltk-1.3.3\src\fl_font.h
+	<config.h>
+	"Xutf8.h"
+
+1434094549 d:\projects\fltk-1.3.3\config.h
+	<mac_endianness.h>
+
+1311050970 d:\projects\fltk-1.3.3\mac_endianness.h
+
+1408783318 d:\projects\fltk-1.3.3\src\xutf8.h
+	<X11/X.h>
+	<X11/Xlib.h>
+	<X11/Xlocale.h>
+	<X11/Xutil.h>
+
+1414613462 d:\projects\fltk-1.3.3\fl\fl_device.h
+	<FL/x.H>
+	<FL/Fl_Plugin.H>
+	<FL/Fl_Image.H>
+	<FL/Fl_Bitmap.H>
+	<FL/Fl_Pixmap.H>
+	<FL/Fl_RGB_Image.H>
+	<stdlib.h>
+
+1311050970 d:\projects\fltk-1.3.3\fl\fl_plugin.h
+	"Fl_Preferences.H"
+
+1379363114 d:\projects\fltk-1.3.3\fl\fl_preferences.h
+	<stdio.h>
+	"Fl_Export.H"
+
+1352234774 d:\projects\fltk-1.3.3\fl\fl_pixmap.h
+	"Fl_Image.H"
+	"x.H"
+
+1311050970 d:\projects\fltk-1.3.3\fl\fl_rgb_image.h
+	"Fl_Image.H"
+
+1317536713 d:\projects\fltk-1.3.3\fl\fl_scrollbar.h
+	"Fl_Slider.H"
+
+1338219552 d:\projects\fltk-1.3.3\fl\fl_slider.h
+	"Fl_Valuator.H"
+
+1311050970 d:\projects\fltk-1.3.3\fl\fl_valuator.h
+	"Fl_Widget.H"
+
+1376322417 d:\projects\fltk-1.3.3\fl\fl_text_buffer.h
+	<assert.h>
+	"Fl_Export.H"
+
+1414685122 d:\projects\fltk-1.3.3\fl\fl.h
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+
+1311050970 d:\projects\fltk-1.3.3\fl\fl_cairo.h
+	<FL/Fl_Export.H>
+	<cairo-xlib.h>
+	<cairo-win32.h>
+	<cairo-quartz.h>
+
+1409218447 d:\projects\fltk-1.3.3\fl\fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+
+1456125317 d:\githubprojects\openedugrim\src\ts\scheme.h
+	<stdio.h>
+
+1456124863 d:\githubprojects\openedugrim\src\ts\scheme-private.h
+	"scheme.h"
+	"opdefines.h"
+
+1403570218 d:\githubprojects\openedugrim\src\ts\opdefines.h
+
+1456124946 source:d:\githubprojects\openedugrim\src\ts\scheme.c
+	"scheme-private.h"
+	<unistd.h>
+	"dynload.h"
+	<math.h>
+	<limits.h>
+	<float.h>
+	<ctype.h>
+	<strings.h>
+	<string.h>
+	<stdlib.h>
+	"opdefines.h"
+
+1177702189 d:\githubprojects\openedugrim\inc\regex.h
+	<sys/types.h>
+
+1456210790 d:\githubprojects\openedugrim\src\mainwindow.h
+	<FL/x.H>
+	<FL/Fl.H>
+	<FL/Fl_Double_Window.H>
+	"FL/Fl_Highlight_Editor.H"
+
+1343104642 d:\projects\fltk-1.3.3\fl\fl_double_window.h
+	"Fl_Window.H"
+
+1456213816 source:d:\githubprojects\openedugrim\src\mainwindow.cpp
+	"mainWindow.h"
 

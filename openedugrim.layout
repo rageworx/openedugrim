@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="src\main.cpp" open="1" top="0" tabpos="1">
-		<Cursor position="0" topLine="0" />
+	<File name="inc\FL\Fl_Highlight_Editor.H" open="1" top="0" tabpos="5">
+		<Cursor position="4175" topLine="89" />
 	</File>
-	<File name="src\main.h" open="1" top="1" tabpos="2">
-		<Cursor position="90" topLine="0" />
+	<File name="src\Fl_Highlight_Editor.cxx" open="1" top="1" tabpos="11">
+		<Cursor position="36411" topLine="1231" />
+	</File>
+	<File name="src\luaproc.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="1607" topLine="0" />
+	</File>
+	<File name="src\luaproc.h" open="1" top="0" tabpos="3">
+		<Cursor position="521" topLine="0" />
+	</File>
+	<File name="src\main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="src\main.h" open="1" top="0" tabpos="2">
+		<Cursor position="40" topLine="0" />
+	</File>
+	<File name="src\mainWindow.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="531" topLine="21" />
+	</File>
+	<File name="src\mainWindow.h" open="1" top="0" tabpos="7">
+		<Cursor position="248" topLine="0" />
+	</File>
+	<File name="src\ts\scheme-private.h" open="1" top="0" tabpos="6">
+		<Cursor position="4322" topLine="0" />
+	</File>
+	<File name="src\ts\scheme.c" open="1" top="0" tabpos="9">
+		<Cursor position="142868" topLine="5078" />
+	</File>
+	<File name="src\ts\scheme.h" open="0" top="0" tabpos="0">
+		<Cursor position="6649" topLine="217" />
 	</File>
 </CodeBlocks_layout_file>

@@ -45,11 +45,24 @@
 			<Add library="user32" />
 			<Add library="kernel32" />
 			<Add library="lua" />
+			<Add library="regex" />
 			<Add directory="$(#fl.lib)" />
 			<Add directory="lib" />
 		</Linker>
+		<Unit filename="inc\FL\Fl_Highlight_Editor.H" />
+		<Unit filename="src\Fl_Highlight_Editor.cxx" />
+		<Unit filename="src\luaproc.cpp" />
+		<Unit filename="src\luaproc.h" />
 		<Unit filename="src\main.cpp" />
 		<Unit filename="src\main.h" />
+		<Unit filename="src\mainWindow.cpp" />
+		<Unit filename="src\mainWindow.h" />
+		<Unit filename="src\ts\opdefines.h" />
+		<Unit filename="src\ts\scheme-private.h" />
+		<Unit filename="src\ts\scheme.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src\ts\scheme.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

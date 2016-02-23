@@ -1,5 +1,13 @@
 LUA 5.3.2
 	http://www.lua.org/download.html
+	Please make with my extra/lua-make, then copy liblua.a to here.
 
 FLTK 1.3.3 ts
 	https://github.com/rageworx/fltk-1.3.3-ts
+	Please download my thread-safe model for windows, and build it.
+	Just set your Codeblocks ${fl} with your built path.
+
+RAGEX (libgnurx-2.5.1)
+	https://sourceforge.net/projects/mingw/files/Other/UserContributed/regex/mingw-regex-2.5.1/
+	Please download source and do ./configure. then make it.
+	Copy archieved libregex.a to here.
